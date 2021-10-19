@@ -1,0 +1,4 @@
+com\mycompany\socket\MyChatApp$HandleClient.class
+com\mycompany\socket\MyChatApp.class
+com\mycompany\socket\MyChatAppClient$MessagesThread.class
+com\mycompany\socket\MyChatAppClient.class
